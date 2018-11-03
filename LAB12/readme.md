@@ -10,14 +10,14 @@ Once the list has been traversed to the end we need to set the pointer back to t
 
 The Linked List class (LL) has the following methods:
 
-append(string, string, string);  
-insertAtBeginning(string, string, string);  
-insertByPos(string, string, string, int);  
-print();  
-searchByName(string, string);  
-updateNumber(string, string, string);  
-removeRecord(string, string);  
-reverse();  
+append 
+insertAtBeginning
+insertByPos  
+print  
+searchByName 
+updateNumber
+removeRecord  
+reverse  
 
   
 
