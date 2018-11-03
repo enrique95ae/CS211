@@ -11,11 +11,11 @@ Once the list has been traversed to the end we need to set the pointer back to t
 The Linked List class (LL) has the following methods (which are already pretty descriptive!):
 
 append   
-insertAtBeginning 
+insertAtBeginning    
 insertByPos    
 print    
-searchByName   
-updateNumber 
+searchByName      
+updateNumber   
 removeRecord    
 reverse    
 
