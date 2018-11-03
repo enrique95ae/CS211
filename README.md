@@ -4,5 +4,5 @@ Computer Science 211. Continuation of C++, intro to classes, pointers and advanc
 
 I excluded the simple labs and program assignments and only included the big projects. The main focus of this class was on getting used to classes.
 
-LAB 12  -> Linked Lists. 
-LAB 13  -> Circular Linked Lists. 
+LAB 12  -> Linked Lists   
+LAB 13  -> Circular Linked Lists  
